@@ -1,4 +1,4 @@
-# GitHub Teacher
+# GitHub Teacher - Update
 
 *Charting the knowledge of the Internet, just like Galileo charted the stars.*
 
